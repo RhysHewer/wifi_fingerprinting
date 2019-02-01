@@ -11,3 +11,4 @@ Using wifi fingerprinting for indoor location modelling
 *dataprocessingPostBuilding.R*: post building-classification data preprocessing. To prepare the data for floor classification and coordinate regression.  
 *ModellingB0/1/2.R*: floor classification and coordinate regression for individual buildings within dataset.  
 *ModellingResults.R*: concatenated modelling results and overall metrics.  
+*WifiFingerprintingPresentation.pdf*: presentation of finalised project.
